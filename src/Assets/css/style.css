@@ -1,0 +1,53 @@
+.logo{
+    width: 150px;
+}
+
+.bg-web{
+    background: #5ce1e6;
+}
+
+.text-web{
+    color: #5ce1e6;
+}
+
+.text-gray{
+    color: gray;
+}
+
+.btn-outline-web{
+    border: 1px solid #5ce1e6;
+    color: #5ce1e6;
+}
+
+.btn-outline-web:hover{
+    background: #5ce1e6;
+    color: white;
+}
+
+.whatsapp{
+    color: #075e54;
+}
+
+.facebook{
+    color: #3b5998;
+}
+
+.twitter{
+    color: #00acee;
+}
+
+
+
+.font-s-20{
+    font-size: 20pt;
+}
+
+.web-btn{
+    background: #5ce1e6;
+    color: white;
+}
+
+.web-btn:hover{
+    border: 1px solid #5ce1e6;
+    color: #5ce1e6; 
+}
